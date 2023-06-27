@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.32632061.js",
+    "static/js/940.a8a55bcd.js": "/static/js/940.a8a55bcd.js",
+    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/ruby.svg.png": "/static/media/ruby.svg.76df93cf57df266746e9.png",
+    "static/media/perl.svg.png": "/static/media/perl.svg.2f4ebd15185bd599856b.png",
+    "static/media/rust.svg.png": "/static/media/rust.svg.98544ebaf054cee6577c.png",
+    "static/media/php.svg.png": "/static/media/php.svg.144ab506ddba211b3555.png",
+    "static/media/Feather.ttf": "/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/net.png": "/static/media/net.dd545a4fc966797dbf78.png",
+    "static/media/maven.png": "/static/media/maven.d7f89e3e456c94eee2c8.png",
+    "static/media/dart.png": "/static/media/dart.f00251a3d3eee7148f7a.png",
+    "static/media/java.png": "/static/media/java.2be0bca1b95cfc0ce63e.png",
+    "index.html": "/index.html",
+    "serve.json": "/serve.json",
+    "manifest.json": "/manifest.json",
+    "main.32632061.js.map": "/static/js/main.32632061.js.map",
+    "940.a8a55bcd.js.map": "/static/js/940.a8a55bcd.js.map"
+  },
+  "entrypoints": [
+    "static/js/940.a8a55bcd.js",
+    "static/js/main.32632061.js"
+  ]
+}
